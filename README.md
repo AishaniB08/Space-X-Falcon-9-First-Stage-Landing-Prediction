@@ -9,4 +9,4 @@ This Applied Data Science Capstone Project has the following Components:-
 - Interactive Visual Analytics and Dashboard
 - Predictive Analysis (Classification)
 
-<center> __THE END__ </center>
+
